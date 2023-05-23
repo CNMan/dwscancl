@@ -1,0 +1,12 @@
+修改1.install.cmd中e:\GitHub\drweb\dwscancl\为实际目录路径后双击开始安装
+
+2.startgui.cmd 启动扫描仪查毒
+
+3.startcmd.cmd 启动命令行查毒
+dwscancl /RA:dwscancl.log /QNA /AAD:D /AAR:D /ACN:D /ADL:D /AES:R /AHT:D /AIC:D /AIN:D /AJK:D /AML:R /ARW:D /ASU:D 文件/文件夹地址（有中文或特殊字符请加双引号）
+
+4.update.cmd 更新病毒库
+
+6.keyupdate.cmd 更新测试Key
+
+5.uninstall.cmd 卸载
